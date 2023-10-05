@@ -1,5 +1,5 @@
 # Gojo Sensei Discord Bot
-
+![](https://t3.ftcdn.net/jpg/01/59/72/46/360_F_159724657_pTBbBhM4JOgcxO608MLSRPBy1ZYH5qPk.jpg)
 
 ## Requirements
 
@@ -12,10 +12,10 @@ To deploy this project run
 sudo apt update && apt upgrade
 ```
 ```bash
-git clone 
+git clone https://github.com/IroshanBrian/Gojo-Sensei-Discord-Bot
 ```
 ```bash
-cd 
+cd Gojo-Sensei-Discord-Bot
 ```
 ```bash
 pip3 install -r requirements.txt
@@ -24,8 +24,7 @@ pip3 install -r requirements.txt
 
 You have to configure the `example.env` 
 
-- ``
-- ``
+- `TOKEN = 'Your_Token_Here'`
 
 file and rename it to `.env`
 
